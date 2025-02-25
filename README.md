@@ -22,8 +22,8 @@ A Retrieval-Augmented Generation (RAG) AI agent built with Streamlit that allows
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rag-ai-agent.git
-   cd rag-ai-agent
+   git clone https://github.com/do-n-khanh/ask.git
+   cd ask
    ```
 
 2. Install required packages:
