@@ -1,0 +1,40 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+*.log
+
+# LangChain/Ollama
+*.cache
+*.lock
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific (Windows)
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Sensitive data
+.env
+*.secret
