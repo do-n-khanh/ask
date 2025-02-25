@@ -1,6 +1,8 @@
 streamlit
 langchain
 langchain-core
-langchain-ollama
+langchain-openai
+langchain-community
+openai
 faiss-cpu
 pypdf
