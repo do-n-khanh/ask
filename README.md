@@ -1,6 +1,7 @@
 # RAG AI Agent (OpenAI)
 
 A Retrieval-Augmented Generation (RAG) AI agent built with Streamlit that allows users to upload documents and ask questions about their content.
+Live demo: https://ask-to-ai.streamlit.app/
 
 ## Features
 
